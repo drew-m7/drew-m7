@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Drew Martin @drew-m7
-- 🌱 I’m currently a computer science student and a software developer
+- 🌱 I’m a computer science student/software developer
 - 📫 You can contact me at drewmartin997@gmail.com
 
 <!---
