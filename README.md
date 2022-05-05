@@ -3,7 +3,7 @@
 - 🌱 I’m a computer science student/software developer
 - 🥸 My portfolio site is found <a href="https://drew-m7.github.io/">here</a>
 - 👨🏼‍💻 I have experience with: Python | Java | C/C++ | HTML/CSS | JavaScript | React | Vue | R | SQL
-- 🥷🏻 I am a software engineer intern at <a href="https://mirus.io/">Mirus Research</a>
+- 🥷🏻 Software engineer intern at <a href="https://mirus.io/">Mirus Research</a>
 - 👨🏼‍💻 Previously I worked at <a href="https://www.cloudpointgeo.com/">Cloudpoint Geospatial</a>
 
 <!---
