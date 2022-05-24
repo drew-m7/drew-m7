@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m Drew @drew-m7
-- 🌱 I’m a computer science student/software developer
+- 🌱 BS in computer science from Illinois State University
 - 🥸 My portfolio site is found <a href="https://drew-m7.github.io/">here</a>
 - 👨🏼‍💻 I have experience with: Python | Java | C/C++ | HTML/CSS | JavaScript | React | Vue | R | SQL
 - 🥷🏻 Software engineer intern at <a href="https://mirus.io/">Mirus Research</a>
-- 👨🏼‍💻 Previously I worked at <a href="https://www.cloudpointgeo.com/">Cloudpoint Geospatial</a>
+- 👨🏼‍💻 Previously interned at <a href="https://www.cloudpointgeo.com/">Cloudpoint Geospatial</a>
 
 <!---
 drew-m7/drew-m7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
